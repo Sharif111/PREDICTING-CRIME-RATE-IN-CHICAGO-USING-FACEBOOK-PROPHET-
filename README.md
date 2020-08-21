@@ -1,4 +1,4 @@
-## Chicago Crime rate data analysis
+## Chicago crime rate data analysis
 
 ## Project Overview:
 
